@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="#eyes-idiomas">Idiomas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dart-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pushpin-desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,11 @@
 <p align="center">
   <img src="assets/mockup.png" width="500"/>
 </p>
+
+
+## :eyes: Idiomas
+- :brazil: [Português-BR](https://github.com/rodrigoge/weather-app/README.md)
+- :united_nations: [English](https://github.com/rodrigoge/weather-app/README-ENG.md)
 
 ## :dart: Objetivo
 Desenvolver o front-end de uma aplicação com foco principal em permitir que o usuário possa encontrar o clima de uma cidade específica de acordo com a sua busca.
