@@ -56,7 +56,7 @@ $ npm start
 ```
 
 ## :memo: Licença
-Esse projeto foi desenvolvido utilizando da licença do MIT. Veja mais sobre a [LICENÇA](https://github.com/rodrigoge/weather-app/LICENSE) para mais informações.
+Esse projeto foi desenvolvido utilizando da licença do MIT. Veja mais sobre a [LICENÇA](https://github.com/rodrigoge/weather-app/blob/master/LICENSE) para mais informações.
 
 ---
 
