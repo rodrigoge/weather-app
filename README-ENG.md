@@ -20,8 +20,8 @@
 </p>
 
 ## :eyes: Languages
-- :brazil: [Português-BR](https://github.com/rodrigoge/weather-app/README.md)
-- :united_nations: [English](https://github.com/rodrigoge/weather-app/README-ENG.md)
+- :brazil: [Portuguese-BR](https://github.com/rodrigoge/weather-app/blob/master/README.md)
+- :united_nations: [English](https://github.com/rodrigoge/weather-app/blob/master/README-ENG.md)
 
 ## :dart: Objective
 Develop the front-end of an application with a primary focus on allowing the user to find the climate of a specific city according to their search.
