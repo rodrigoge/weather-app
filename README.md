@@ -22,7 +22,7 @@
 Desenvolver o front-end de uma aplicação com foco principal em permitir que o usuário possa encontrar o clima de uma cidade específica de acordo com a sua busca.
 
 ## :pushpin: Desafio
-Utilizar uma API de climas afim de entender os conceitos de utilização com React e a forma como obter esses dados. Neste app utilizei a API da Open Weather, que é perfeita para o próposito, ela traz todo o conteúdo em formato JSON, o que facilita para intgração com o front-end.
+Utilizar uma API de climas afim de entender os conceitos de utilização com React e a forma como obter esses dados. Neste app utilizei a API da [Open Weather](https://openweathermap.org/api), que é perfeita para o próposito, ela traz todo o conteúdo em formato JSON, o que facilita para integração com o front-end.
 
 <p align="center">
   <img src="assets/video-gif.gif" width="1000"/>
