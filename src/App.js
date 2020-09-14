@@ -3,7 +3,7 @@ import ReactCountryFlag from 'react-country-flag';
 import { AiOutlineSearch } from 'react-icons/ai';
 
 const api = {
-  key: "954e344d6ba444d18a18b65619519ada",
+  key: `${process.env.SECRET_API}`,
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
